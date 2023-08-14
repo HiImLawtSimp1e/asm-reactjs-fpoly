@@ -1,0 +1,95 @@
+{
+  "category_products": [
+    {
+      "id": 1,
+      "title": "Coffe"
+    },
+    {
+      "id": 2,
+      "title": "Tea"
+    },
+    {
+      "id": 3,
+      "title": "Sinh to"
+    }
+  ],
+  "products": [
+    {
+      "id": 0.7448585661818985,
+      "name": "Black Coffe",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "25000",
+      "category_productId": 1
+    },
+    {
+      "id": 0.3934799647734797,
+      "name": "Cocconut Coffe",
+      "title_cdn": "ssxt1z0fs0ghuca7qxpn",
+      "price": "40000",
+      "category_productId": 1
+    },
+    {
+      "id": 0.2323233885745836,
+      "name": "Trà Đào",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "30000",
+      "category_productId": 2
+    },
+    {
+      "id": 0.7448585665818985,
+      "name": "Trà Quất",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "25000",
+      "category_productId": 2
+    },
+    {
+      "id": 0.3934712647734797,
+      "name": "Sinh tố xoài",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "40000",
+      "category_productId": 3
+    },
+    {
+      "id": 0.2323234885745836,
+      "name": "Sinh tố bơ",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "30000",
+      "category_productId": 3
+    },
+    {
+      "id": 0.19565812710267538,
+      "name": "Sinh tố chanh tuyết",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "35000",
+      "category_productId": 3
+    },
+    {
+      "id": 0.2849146982867161,
+      "name": "Trà hoa quả nhiệt đới",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "30000",
+      "category_productId": 2
+    },
+    {
+      "id": 0.19208112908116126,
+      "name": "Bạc Xỉu",
+      "title_cdn": "fewdwqedqwe_an7037",
+      "price": "25000",
+      "category_productId": 1
+    },
+    {
+      "id": 0.5231723836984998,
+      "name": "Trà chanh",
+      "title_cdn": "z9ncoup6pgcji0fuannl",
+      "price": "25000",
+      "category_productId": 1
+    },
+    {
+      "id": 0.4544498783629416,
+      "name": "Trà đào",
+      "title_cdn": "su0kibbxfkgser2sr0n2",
+      "price": "35000",
+      "category_productId": 2
+    }
+  ]
+}
