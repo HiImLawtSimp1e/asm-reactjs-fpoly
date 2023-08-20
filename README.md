@@ -1,2 +1,2 @@
 # reactjs-coffe_shop
-React Hook, axios, fake API with json-server
+React Hook, axios, Cloudinary, fake API with json-server
